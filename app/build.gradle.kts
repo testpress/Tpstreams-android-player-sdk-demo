@@ -56,7 +56,7 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
-    implementation("com.github.testpress:TPStreamsAndroidPlayer:1.1.11-beta.1")
+    implementation("com.github.testpress:TPStreamsAndroidPlayer:1.2.16-beta.3")
     implementation("androidx.appcompat:appcompat:1.7.0")
     implementation("androidx.constraintlayout:constraintlayout:2.2.0")
 }
